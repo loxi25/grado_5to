@@ -9,7 +9,7 @@ h1 {
 }
 
 h2 {
-    color: rgb(28, 109, 28);
+    color: rgb(33, 28, 109);
 }
 
 p {
@@ -22,7 +22,7 @@ ul {
 }
 
 button {
-    background-color: green;
+    background-color: rgb(247, 4, 4);
     color: white;
     padding: 10px;
 }
